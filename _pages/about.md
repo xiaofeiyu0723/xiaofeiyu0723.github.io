@@ -44,17 +44,17 @@ redirect_from:
 
 ## Selected Publications
 - **Under review.**
-  - X. Yu\*, Y. Wu\*, H. Yan, Y. Tong, Y. Ma (*Equal contribution*)
-  - *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025.
+  - **X. Yu\***, Y. Wu, H. Yan, Y. Tong, Y. Ma
+  - *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2026.
 
 - **Constraints-aware Adaptive Routing with Hybrid Waveguides for Photonic Integrated Circuits**
-  - Y. Wu\*, X. Yu\*, X. Feng, Y. Tong, Y. Ma (*Equal contribution*)
+  - Y. Wu\*, **X. Yu\***, X. Feng, Y. Tong, Y. Ma (\*Equal contribution)
   - *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2025. [[PDF]](TODO)
 
 - **Efficient Continuous Logic Optimization with Diffusion Model**
-  - Y. Ouyang\*, X. Yu\*, J. Zhu, T. Chen, Y. Ma (*Equal contribution*)
+  - Y. Ouyang\*, **X. Yu\***, J. Zhu, T. Chen, Y. Ma (\*Equal contribution)
   - *ACM/IEEE Design Automation Conference (DAC)*, 2025. [[PDF]](TODO)
 
 - **PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design**
-  - Y. Wu, X. Yu, H. Chen, Y. Luo, Y. Tong, Y. Ma
+  - Y. Wu, **X. Yu**, H. Chen, Y. Luo, Y. Tong, Y. Ma
   - *Design, Automation & Test in Europe Conference (DATE)*, 2025. [[PDF]](https://xiaofeiyu0723.github.io/files/DATE25.pdf)
