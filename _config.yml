@@ -22,23 +22,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xiaofeiyu.jpg"
+  avatar           : "profile.png"
   name             : "Xiaofei YU"
   pronouns         : # example: "she/her"  
   bio              : "An MPhil student at HKUST (GZ)"
   location         : "Guangzhou, China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xyu082@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-5594-8325"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
