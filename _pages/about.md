@@ -42,7 +42,7 @@ I received a B.E. degree from Guangzhou University and am currently pursuing an 
 
   - Major: Communication Engineering.
   - GPA: 88.00/100.00.
-  - Rank: 3/80.
+  - Comprehensive Rank: 3/80.
 
 ## Selected Publications
 - **Under Review**
