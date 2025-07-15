@@ -10,7 +10,7 @@ redirect_from:
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
       <span>M.Phil., HKUST(GZ), China</span>
-      <span style="float:right" class="time">Sept. 2024 - Jun. 2025 (Expected)</span>
+      <span style="float:right" class="time">Sept. 2024 - Jun. 2026 (Expected)</span>
   </div>
   <style>
   @media screen and (max-width: 1280px) {
