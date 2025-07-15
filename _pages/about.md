@@ -40,7 +40,7 @@ redirect_from:
 
   - Major: Communication Engineering.
   - GPA: 88.00/100.00.
-  - Rank: 8/80.
+  - Rank: 3/80.
 
 ## Selected Publications
 
