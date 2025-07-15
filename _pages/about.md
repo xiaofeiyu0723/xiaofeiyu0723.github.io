@@ -43,7 +43,8 @@ redirect_from:
   - Rank: 3/80.
 
 ## Selected Publications
-
+* [ASP-DAC'25](https://www.aspdac.com/){: .btn} **X. Yu\***, Y. Wu\*, H. Yan, Y. Tong, Y. Ma, 
+"Under review." (<u>*Equal contribution</u>)
 * [ICCAD'25](https://2025.iccad.com/){: .btn} Y. Wu*, **X. Yu\***, X. Feng, Y. Tong, Y. Ma, "Constraints-aware Adaptive Routing with Hybrid Waveguides for Photonic Integrated Circuits". IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), 2025. (<u>*Equal contribution</u>) [pdf](TODO){: .btn--paper}
 * [DAC'25](https://www.dac.com/){: .btn} Y. Ouyang*, **X. Yu\***, J. Zhu, T. Chen, Y. Ma, "Efficient Continuous Logic Optimization with Diffusion Model". ACM/IEEE Design Automation Conference (**DAC**), 2025. (<u>*Equal contribution</u>) [pdf](TODO){: .btn--paper}
 * [DATE'25](https://www.date-conference.com/){: .btn}  Y. Wu, **X. Yu**, H. Chen, Y. Luo, Y. Tong, Y. Ma, "PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design". *Design, Automation & Test in Europe Conference* (***DATE***), 2025. [pdf](https://xiaofeiyu0723.github.io/files/DATE25.pdf){: .btn--paper}
