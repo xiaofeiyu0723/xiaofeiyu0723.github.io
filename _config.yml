@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Xiaofei YU"
   pronouns         : # example: "she/her"  
-  bio              : "An MPhil student at HKUST (GZ)"
+  bio              : "An MPhil student at HKUST(GZ)"
   location         : "Guangzhou, China"
-  employer         : "HKUST (GZ)"
+  employer         : "HKUST(GZ)"
   uri              : # URL
   email            : "xyu082@connect.hkust-gz.edu.cn" 
 
@@ -215,18 +215,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+    # output: true
+    # permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+    # output: true
+    # permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
