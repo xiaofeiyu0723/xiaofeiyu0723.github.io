@@ -55,7 +55,7 @@ I received a B.E. degree from Guangzhou University and am currently pursuing an 
 
 - **Efficient Continuous Logic Optimization with Diffusion Model**
   - Y. Ouyang\*, **X. Yu\***, J. Zhu, T. Chen, Y. Ma (\*Equal contribution)
-  - *ACM/IEEE Design Automation Conference (DAC)*, 2025. [[PDF]](TODO)
+  - *ACM/IEEE The Chips to Systems Conference (previously known as Design Automation Conference, DAC)*, 2025. [[PDF]](TODO)
 
 - **PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design**
   - Y. Wu, **X. Yu**, H. Chen, Y. Luo, Y. Tong, Y. Ma
