@@ -46,7 +46,7 @@ I received a B.E. degree from Guangzhou University and am currently pursuing an 
 
 ## Selected Publications
 - **Under Review**
-  - **X. Yu\***, Y. Wu, H. Yan, Y. Tong, Y. Ma
+  - **X. Yu**, Y. Wu, H. Yan, Y. Tong, Y. Ma
   - *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2026.
 
 - **Constraints-aware Adaptive Routing with Hybrid Waveguides for Photonic Integrated Circuits**
