@@ -23,6 +23,7 @@ redirect_from:
 
 
   - Major: Microlectronics.
+  - GPA: N/A.
 
 - <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
       <span>B.Eng., Guangzhou University, China</span>
@@ -38,8 +39,8 @@ redirect_from:
   </style>
 
   - Major: Communication Engineering.
-  - GPA: 88.00/100.00
-  - Rank: 8/80
+  - GPA: 88.00/100.00.
+  - Rank: 8/80.
 
 ## Selected Publications
 
