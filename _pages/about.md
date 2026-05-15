@@ -47,7 +47,7 @@ I received a B.E. degree from Guangzhou University and am currently pursuing an 
 ## Selected Publications
 - **ELITE: Efficient Lookup Table Assisted Routing Engine for Photonic Integrated Circuits**
   - **X. Yu**, Y. Wu, H. Yan, Y. Tong, Y. Ma
-  - *International Symposium of EDA (ISEDA)*, 2026.
+  - *International Symposium of EDA (ISEDA)*, 2026. [[PDF]](TODO)
   - **Best Paper Nomination**
     
 - **Constraints-aware Adaptive Routing with Hybrid Waveguides for Photonic Integrated Circuits**
