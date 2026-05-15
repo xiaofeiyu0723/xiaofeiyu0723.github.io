@@ -45,10 +45,11 @@ I received a B.E. degree from Guangzhou University and am currently pursuing an 
   - Comprehensive Rank: 3/80.
 
 ## Selected Publications
-- **Under Review**
+- **ELITE: Efficient Lookup Table Assisted Routing Engine for Photonic Integrated Circuits**
   - **X. Yu**, Y. Wu, H. Yan, Y. Tong, Y. Ma
-  - *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2026.
-
+  - *International Symposium of EDA (ISEDA)*, 2026.
+  - **Best Paper Nomination**
+    
 - **Constraints-aware Adaptive Routing with Hybrid Waveguides for Photonic Integrated Circuits**
   - Y. Wu\*, **X. Yu\***, X. Feng, Y. Tong, Y. Ma (\*Equal contribution)
   - *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2025. [[PDF]](TODO)
