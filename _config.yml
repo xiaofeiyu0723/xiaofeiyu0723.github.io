@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Xiaofei YU"
   pronouns         : # example: "she/her"  
-  bio              : "A Ph.D. student at HKUST(GZ)"
+  bio              : "Ph.D. student in Microelectronics at HKUST(GZ), working on EDA, machine learning-aided VLSI design, and photonic integrated circuits"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
-  email            : "xyu082@connect.hkust-gz.edu.cn" 
+  email            : "xyu082 [at] connect.hkust-gz.edu.cn"
 
   # Academic websites
   academia         : # URL
