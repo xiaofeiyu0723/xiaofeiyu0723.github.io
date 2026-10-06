@@ -28,6 +28,7 @@ I received a B.E. degree from Guangzhou University and am currently pursuing a P
   </div>
   - Major: Communication Engineering.
   - Comprehensive Rank: 3/80.
+
 ## Selected Publications
 - **ELITE: Efficient Lookup Table Assisted Routing Engine for Photonic Integrated Circuits**
   - **Xiaofei Yu**, Y. Wu, H. Yan, Y. Tong, Y. Ma
