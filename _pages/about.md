@@ -10,38 +10,24 @@ I received a B.E. degree from Guangzhou University and am currently pursuing a P
 
 ## Education
 
-- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
+- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em; display:flex; justify-content:space-between; gap:1em;">
       <span>Ph.D. student, HKUST(GZ), China</span>
-      <span style="float:right" class="time">2026 - Present</span>
+      <span class="time">2026 - Present</span>
   </div>
-  <style>
-  @media screen and (max-width: 1280px) {
-    .time {
-  	float:right;
-      display: none;
-    }
-  }
-  </style>
-
-
   - Major: Microelectronics.
 
-- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em;">
-      <span>B.Eng., Guangzhou University, China</span>
-      <span style="float:right" class="time">Sept. 2020 - Jun. 2024</span>
+- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em; display:flex; justify-content:space-between; gap:1em;">
+      <span>M.Phil., HKUST(GZ), China</span>
+      <span class="time">Sept. 2024 - Jun. 2026</span>
   </div>
-  <style>
-  @media screen and (max-width: 1280px) {
-    .time {
-  	float:right;
-      display: none;
-    }
-  }
-  </style>
+  - Major: Microelectronics.
 
+- <div style="font-size:18px; line-height:1.5; margin:0; padding:0.1em; display:flex; justify-content:space-between; gap:1em;">
+      <span>B.Eng., Guangzhou University, China</span>
+      <span class="time">Sept. 2020 - Jun. 2024</span>
+  </div>
   - Major: Communication Engineering.
   - Comprehensive Rank: 3/80.
-
 ## Selected Publications
 - **ELITE: Efficient Lookup Table Assisted Routing Engine for Photonic Integrated Circuits**
   - **Xiaofei Yu**, Y. Wu, H. Yan, Y. Tong, Y. Ma
