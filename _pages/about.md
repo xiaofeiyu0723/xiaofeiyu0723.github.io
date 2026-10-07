@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Microelectronics at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. Yuzhe Ma. I received an M.Phil. in Microelectronics from HKUST(GZ) and a B.E. degree from Guangzhou University. My research interests are in the cross-disciplinary study of electronic design automation (EDA) and machine learning-aided VLSI design, with a focus on optimization methodologies for advanced integrated circuits and physical design methodologies for photonic integrated circuits.
+I received a B.E. degree from Guangzhou University and an M.Phil. in Microelectronics from The Hong Kong University of Science and Technology (Guangzhou). I am currently a Ph.D. student in Microelectronics at HKUST(GZ), advised by Prof. Yuzhe Ma. My research interests are in the cross-disciplinary study of electronic design automation (EDA) and machine learning-aided VLSI design, with a focus on optimization methodologies for advanced integrated circuits and physical design methodologies for photonic integrated circuits.
 
 ## Education
 
