@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received a B.E. degree from Guangzhou University and an M.Phil. in Microelectronics from The Hong Kong University of Science and Technology (Guangzhou), where I am currently pursuing a Ph.D. in Microelectronics. Prof. Yuzhe Ma supervised my M.Phil. research and continues to advise my Ph.D. research. My research interests are in the cross-disciplinary study of electronic design automation (EDA) and machine learning-aided VLSI design, with a focus on optimization methodologies for advanced integrated circuits and physical design methodologies for photonic integrated circuits.
+I received a B.E. degree from Guangzhou University and an M.Phil. in Microelectronics from The Hong Kong University of Science and Technology (Guangzhou), where I am currently pursuing a Ph.D. in Microelectronics, both advised by Prof. Yuzhe Ma. My research interests are in the cross-disciplinary study of electronic design automation (EDA) and machine learning-aided VLSI design, with a focus on optimization methodologies for advanced integrated circuits and physical design methodologies for photonic integrated circuits.
 
 ## Education
 
